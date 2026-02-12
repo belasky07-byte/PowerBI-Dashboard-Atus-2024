@@ -15,7 +15,6 @@ Analizar y visualizar los patrones de accidentes de tránsito en México y compa
 - Power BI Desktop
 - Power Query
 - DAX
-- Modelado de datos
 
 # Fuente de Datos
 INEGI – Estadística de Accidentes de Tránsito Terrestre en Zonas Urbanas y Suburbanas (ATUS) 2024.
