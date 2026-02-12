@@ -21,3 +21,9 @@ INEGI – Estadística de Accidentes de Tránsito Terrestre en Zonas Urbanas y S
 - URL: https://www.inegi.org.mx/programas/accidentes/#datos_abiertos
 
 # Vista Previa
+![Dashboard](Image_Dashboard_P.png)
+
+# Archivo Completo
+Debido al tamaño del archivo, el dashboard en Power BI se encuentra disponible en el siguiente enlace:
+
+🔗 [Descargar archivo Power BI – ATUS 2024](https://drive.google.com/drive/folders/1LvmwnymQsCJSASk6bYbDINAZd9kRRFZS?usp=sharing)
