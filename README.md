@@ -18,4 +18,7 @@ Analizar y visualizar los patrones de accidentes de tránsito en México y compa
 - Modelado de datos
 
 # Fuente de Datos
-INEGI – ATUS 2024.
+INEGI – Estadística de Accidentes de Tránsito Terrestre en Zonas Urbanas y Suburbanas (ATUS) 2024.
+- URL: https://www.inegi.org.mx/programas/accidentes/#datos_abiertos
+
+# Vista Previa
